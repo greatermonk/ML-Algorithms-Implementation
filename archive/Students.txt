@@ -1,0 +1,13 @@
+Name,Roll_No,Class,Department,student_id_no
+Aarav Sharma,101,10,Science,20230001
+Siya Patel,102,10,Science,20230002
+Aryan Singh,103,10,Arts,20230003
+Ananya Kumar,104,10,Commerce,20230004
+Vivaan Reddy,105,11,Science,20230005
+Ishita Menon,106,11,Arts,20230006
+Kabir Joshi,107,11,Commerce,20230007
+Diya Gupta,108,12,Science,20230008
+Reyansh Verma,109,12,Arts,20230009
+Advika Iyer,110,12,Commerce,20230010
+Rohan Banerjee,111,10,Science,20230011
+Sanvi Chatterjee,112,11,Arts,20230012
