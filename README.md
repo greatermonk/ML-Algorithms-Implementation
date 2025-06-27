@@ -25,13 +25,13 @@ This project is a collection of machine learning algorithms implemented in Pytho
 The following machine learning algorithms are implemented in this repository:
 
   - **Supervised Learning**
-      - [Naive Bayes](https://www.google.com/search?q=link/to/your/naive_bayes/folder)
-      - [K-Nearest Neighbors (KNN)](https://www.google.com/search?q=link/to/your/knn/folder)
-      - [Decision Trees](https://www.google.com/search?q=link/to/your/decision_trees/folder)
-      - [Random Forest](https://www.google.com/search?q=link/to/your/random_forest/folder)
-      - [Neural Networks](https://www.google.com/search?q=link/to/your/neural_networks/folder)
+      - [Naive Bayes](https://github.com/greatermonk/ML-Algorithms-Implementation/blob/main/Naive_Bayes.py)
+      - [K-Nearest Neighbors (KNN)](https://github.com/greatermonk/ML-Algorithms-Implementation/blob/main/KNN.py)
+      - [Decision Trees](https://github.com/greatermonk/ML-Algorithms-Implementation/blob/main/DecisionTrees.py)
+      - [Random Forest](https://github.com/greatermonk/ML-Algorithms-Implementation/blob/main/RandomForest.py)
+      - [Neural Networks](https://github.com/greatermonk/ML-Algorithms-Implementation/blob/main/ANN_Simulation.py)
   - **Unsupervised Learning**
-      - [K-Means Clustering](https://www.google.com/search?q=link/to/your/k_means/folder)
+      - [K-Means Clustering](https://github.com/greatermonk/ML-Algorithms-Implementation/blob/main/Kmeans.py)
 
 
 
@@ -72,7 +72,7 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 ## 📜 License
 
-Distributed under the **|GNU General Public License v3.0|**.  See `LICENSE` for more information.
+Distributed under the **|GNU General Public License v3.0|**.  See *[LICENSE](https://github.com/greatermonk/ML-Algorithms-Implementation/blob/main/LICENSE)* for more information.
 
 -----
 
