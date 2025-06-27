@@ -1,8 +1,18 @@
 # ML-Algorithms-Implementation
 Demonstrates the working of various machine learning algorithms (including neural networks) with their implementation on real world datasets.
 
+## [Archive](https://github.com/greatermonk/ML-Algorithms-Implementation/tree/main/archive)
+
+ > Contains all the datasets downloaded from various sources used in the program.
 
 -----
+
+## [Generated Graphs/Charts/Animations](https://github.com/greatermonk/ML-Algorithms-Implementation/tree/main/generated_plots)
+
+ > Contains all generated graphs and plots created using `matplotlib` and `seaborn`
+
+-----
+
 
 # ML-Algorithms-Implementation
 
