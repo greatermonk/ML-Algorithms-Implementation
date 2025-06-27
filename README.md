@@ -10,11 +10,11 @@ This repository contains Python implementations of various machine learning algo
 
 ## 📝 Table of Contents
 
-  - [About](https://www.google.com/search?q=%23about)
-  - [Algorithms Covered](https://www.google.com/search?q=%23algorithms-covered)
-  - [Installation](https://www.google.com/search?q=%23installation)
-  - [Contributing](https://www.google.com/search?q=%23contributing)
-  - [License](https://www.google.com/search?q=%23license)
+  - [About](https://github.com/greatermonk/ML-Algorithms-Implementation/edit/main/README.md#-about)
+  - [Algorithms Covered](https://github.com/greatermonk/ML-Algorithms-Implementation/edit/main/README.md#-algorithms-covered)
+  - [Installation](https://github.com/greatermonk/ML-Algorithms-Implementation/edit/main/README.md#-installation)
+  - [Contributing](https://github.com/greatermonk/ML-Algorithms-Implementation/edit/main/README.md#-contributing)
+  - [License](https://github.com/greatermonk/ML-Algorithms-Implementation/edit/main/README.md#-license)
 
 ## 🧐 About
 
@@ -53,7 +53,6 @@ You need to have Python installed on your system. You can download it from [pyth
     ```sh
     pip install -r requirements.txt
     ```
-    *If you don't have a `requirements.txt` file, you can create one by running `pip freeze > requirements.txt` in your terminal. This will list all the packages that are currently installed in your environment.*
 
 
 
